@@ -5,3 +5,5 @@ Placeholder for Epub creations
 2. duplicate in posit cloud
 3. quarto create project book mybook
 4. quarto preview mybook
+5. quarto create project website mysite
+6. quarto render mysite
